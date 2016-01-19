@@ -1,5 +1,8 @@
 ---
 - hosts: localhost
   become: root
+  vars:
+    locale_list:
+      - en_US.UTF-8
   roles:
     - ansible-role-locale
