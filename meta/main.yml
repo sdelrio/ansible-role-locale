@@ -1,0 +1,21 @@
+galaxy_info:
+  author: Sergio R.
+  description: Locale role for Debian
+  company: freelance
+  license: license (BSD)
+
+  min_ansible_version: 1.2
+
+  platforms:
+  - name: Ubuntu
+    versions:
+    - precise
+    - trusty
+  - name: Debian
+    versions:
+    - jessie
+    - wheezy
+
+  galaxy_tags: []
+
+dependencies: []
