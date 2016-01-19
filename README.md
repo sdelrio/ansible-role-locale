@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/sdelrio/ansible-role-locale.png)](https://travis-ci.org/sdelrio/ansible-role-locale)
+[![Build Status](https://travis-ci.org/sdelrio/ansible-role-locale.svg)](https://travis-ci.org/sdelrio/ansible-role-locale)
 
 Ansible locale
 ==============
